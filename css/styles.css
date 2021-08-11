@@ -1,0 +1,120 @@
+body {
+  margin: 0;
+  color: #40514E;
+  text-align: center;
+  font-family: verdana, sans-serif;
+}
+
+h1 {
+  font-size: 5rem;
+  margin-top: 50px auto 0 auto;
+  color: #66BFBF;
+  line-height: 2
+}
+
+h2 {
+  color: #66BFBF;
+  font-family: verdana, sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+
+h3 {
+  color: #11999E;
+  font-family: verdana, sans-serif;
+}
+
+p {
+  line-height: 2;
+}
+
+hr {
+  border: dotted #EAF6F6 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+
+a{
+  color: #11999E;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover{
+  color: #EAF6F6;
+}
+
+.top-container {
+  background: #E4F9F5;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+  margin: 100px 0;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  padding: 50px 0 250px;
+}
+
+.intro {
+  width: 30%;
+  margin: auto;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 250px;
+  bottom: 300px;
+}
+
+.top-cloud {
+  position:absolute;
+  right: 300px;
+  top: 40px;
+}
+
+.angimg {
+  margin-top: 10px;
+}
+
+.compimg{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+  margin-bottom: 30px;
+
+}
+
+.chilliimg{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.desc {
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+}
+
+.copyright{
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+
+.contact-message {
+  width: 40%;
+  margin: 40px auto 60px;
+}
